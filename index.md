@@ -14,4 +14,6 @@ This is the second VR project.
 
 It is a little bit more work than the 360 project...
 
-<script src="/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/mrhayden/button-with-screen"?autoplay=true&noheader=false></script>
+<script src="//patches.vizor.io/scripts/embed.js" 
+data-vizorurl="https://360.vizor.io/embed/mrhayden/button-with-screen?autoplay=true&noheader=false" 
+data-aspect="1.33"></script>
